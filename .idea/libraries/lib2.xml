@@ -1,0 +1,37 @@
+<component name="libraryTable">
+  <library name="lib2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ClientWeb/out/artifacts/ClientWeb_war_exploded/WEB-INF/lib/javax.annotation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/out/artifacts/ClientWeb_war_exploded/WEB-INF/lib/jaxb-xjc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/out/artifacts/ClientWeb_war_exploded/WEB-INF/lib/jaxws-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/out/artifacts/ClientWeb_war_exploded/WEB-INF/lib/management-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/out/artifacts/ClientWeb_war_exploded/WEB-INF/lib/jaxws-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/out/artifacts/ClientWeb_war_exploded/WEB-INF/lib/jaxb-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/out/artifacts/ClientWeb_war_exploded/WEB-INF/lib/streambuffer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/out/artifacts/ClientWeb_war_exploded/WEB-INF/lib/jaxb-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/out/artifacts/ClientWeb_war_exploded/WEB-INF/lib/jaxrpc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/out/artifacts/ClientWeb_war_exploded/WEB-INF/lib/commons-discovery-0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/out/artifacts/ClientWeb_war_exploded/WEB-INF/lib/saaj-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/out/artifacts/ClientWeb_war_exploded/WEB-INF/lib/commons-logging-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/out/artifacts/ClientWeb_war_exploded/WEB-INF/lib/stax2-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/out/artifacts/ClientWeb_war_exploded/WEB-INF/lib/saaj.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/out/artifacts/ClientWeb_war_exploded/WEB-INF/lib/gson-2.8.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/out/artifacts/ClientWeb_war_exploded/WEB-INF/lib/stax-ex.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/out/artifacts/ClientWeb_war_exploded/WEB-INF/lib/FastInoset.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/out/artifacts/ClientWeb_war_exploded/WEB-INF/lib/policy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/out/artifacts/ClientWeb_war_exploded/WEB-INF/lib/wsdl4j-1.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/out/artifacts/ClientWeb_war_exploded/WEB-INF/lib/log4j-1.2.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/out/artifacts/ClientWeb_war_exploded/WEB-INF/lib/jaxws-tools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/out/artifacts/ClientWeb_war_exploded/WEB-INF/lib/woodstox-core-asl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/out/artifacts/ClientWeb_war_exploded/WEB-INF/lib/gmbal-api-only.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/out/artifacts/ClientWeb_war_exploded/WEB-INF/lib/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/out/artifacts/ClientWeb_war_exploded/WEB-INF/lib/mimepull.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/out/artifacts/ClientWeb_war_exploded/WEB-INF/lib/jsr181-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/out/artifacts/ClientWeb_war_exploded/WEB-INF/lib/saaj-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/out/artifacts/ClientWeb_war_exploded/WEB-INF/lib/ha-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/out/artifacts/ClientWeb_war_exploded/WEB-INF/lib/axis.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

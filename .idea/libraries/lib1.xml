@@ -1,0 +1,36 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ClientWeb/lib/stax2-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/lib/jaxrpc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/lib/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/lib/woodstox-core-asl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/lib/wsdl4j-1.5.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/lib/gmbal-api-only.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/lib/jaxb-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/lib/saaj.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/lib/streambuffer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/lib/policy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/lib/jaxws-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/lib/saaj-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/lib/axis.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/lib/jsr181-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/lib/commons-discovery-0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/lib/ha-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/lib/management-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/lib/FastInoset.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/lib/saaj-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/lib/stax-ex.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/lib/javax.annotation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/lib/jaxws-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/lib/jaxws-tools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/lib/jaxb-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/lib/mimepull.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/lib/commons-logging-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/lib/log4j-1.2.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ClientWeb/lib/jaxb-xjc.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,29 @@
+<component name="libraryTable">
+  <library name="lib3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ServicesPublisher/lib/jaxws-tools.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ServicesPublisher/lib/policy.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ServicesPublisher/lib/gmbal-api-only.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ServicesPublisher/lib/FastInoset.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ServicesPublisher/lib/saaj-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ServicesPublisher/lib/stax2-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ServicesPublisher/lib/ha-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ServicesPublisher/lib/streambuffer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ServicesPublisher/lib/jaxb-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ServicesPublisher/lib/saaj-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ServicesPublisher/lib/javax.annotation.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ServicesPublisher/lib/jaxb-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ServicesPublisher/lib/jaxws-rt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ServicesPublisher/lib/jaxws-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ServicesPublisher/lib/jaxb-xjc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ServicesPublisher/lib/woodstox-core-asl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ServicesPublisher/lib/management-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ServicesPublisher/lib/stax-ex.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ServicesPublisher/lib/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ServicesPublisher/lib/jsr181-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ServicesPublisher/lib/mimepull.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
